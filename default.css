@@ -1,0 +1,13 @@
+body
+{
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+canvas#gridView
+{
+  position: fixed;
+  margin: 10px;
+  background-color: gray;
+}
