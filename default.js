@@ -5,6 +5,9 @@ var MainApplication = function()
   this.context = this.canvas.getContext("2d");
   this.video = document.getElementById("videoElement");
 
+  this.imgWidth = 128;
+  this.imgHeight = 72;
+
   document.body.style.height = "10000px";
 
   this.fps = 30;
@@ -35,20 +38,16 @@ MainApplication.prototype.onMouseClick = function(event)
 
 MainApplication.prototype.getHovered = function(event)
 {
-  // get element which is hovered
-  var imgWidth = 480 / 4;
-  var imgHeight = 300 / 4;
-
   // calculate the range of images which are rendered based on the current scroll position
   var pos = document.body.scrollTop;
   var vpHeight = this.canvas.height;
   var vpWidth = this.canvas.width;
 
-  var cols = Math.floor(vpWidth/imgWidth);
-  var rows = Math.floor(vpHeight/imgHeight);
-  var scrolledRows = Math.floor(pos / imgHeight);
+  var cols = Math.floor(vpWidth/this.imgWidth);
+  var rows = Math.floor(vpHeight/this.imgHeight);
+  var scrolledRows = Math.floor(pos / this.imgHeight);
   var scrolledImages = scrolledRows * cols;
-  var cutOff = pos - (scrolledRows*imgHeight);
+  var cutOff = pos - (scrolledRows*this.imgHeight);
 
   var rect = this.canvas.getBoundingClientRect();
   var counter = 0;
@@ -60,8 +59,8 @@ MainApplication.prototype.getHovered = function(event)
     var row = Math.floor(counter / cols);
     var col = counter % cols;
 
-    if (event.clientX >= widthOffset + col*imgWidth && event.clientX <= widthOffset + col*imgWidth + imgWidth
-     && event.clientY >= heightOffset + row*imgHeight - cutOff && event.clientY <= heightOffset + row*imgHeight - cutOff + imgHeight)
+    if (event.clientX >= widthOffset + col*this.imgWidth && event.clientX <= widthOffset + col*this.imgWidth + this.imgWidth
+     && event.clientY >= heightOffset + row*this.imgHeight - cutOff && event.clientY <= heightOffset + row*this.imgHeight - cutOff + this.imgHeight)
     {
       return i;
     }
@@ -91,7 +90,7 @@ MainApplication.prototype.setDimensions = function()
 {
   // set canvas size
   this.canvas.width  = window.innerWidth - 460;
-  this.canvas.height = window.innerHeight - 20;
+  this.canvas.height = window.innerHeight - 70;
 }
 
 MainApplication.prototype.onScroll = function(event)
@@ -199,19 +198,17 @@ MainApplication.prototype.render = function()
   var xPos;
   var yPos;
   var displayWidth;
-  var imgWidth = 480 / 4;
-  var imgHeight = 300 / 4;
 
   // calculate the range of images to render based on the current scroll position
   var pos = document.body.scrollTop;
   var vpHeight = this.canvas.height;
   var vpWidth = this.canvas.width;
 
-  var cols = Math.floor(vpWidth/imgWidth);
-  var rows = Math.floor(vpHeight/imgHeight);
-  var scrolledRows = Math.floor(pos / imgHeight);
+  var cols = Math.floor(vpWidth/this.imgWidth);
+  var rows = Math.floor(vpHeight/this.imgHeight);
+  var scrolledRows = Math.floor(pos / this.imgHeight);
   var scrolledImages = scrolledRows * cols;
-  var cutOff = pos - (scrolledRows*imgHeight);
+  var cutOff = pos - (scrolledRows*this.imgHeight);
 
   var counter = 0;
 
@@ -229,7 +226,7 @@ MainApplication.prototype.render = function()
     var row = Math.floor(counter / cols);
     var col = counter % cols;
 
-    this.context.drawImage(this.filteredImages[i].imageObj, col*imgWidth, row*imgHeight - cutOff, imgWidth, imgHeight);
+    this.context.drawImage(this.filteredImages[i].imageObj, col*this.imgWidth, row*this.imgHeight - cutOff, this.imgWidth, this.imgHeight);
 
     counter++;
     if (counter >= cols*(rows+1))
