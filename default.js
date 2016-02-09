@@ -57,6 +57,15 @@ MainApplication.prototype.fillAutoComplete = function()
     focus: this.onAutoCompleteFocus.bind(this),
     select: this.onAutoCompleteSelect.bind(this)
   });
+  $("#search").keydown(this.onAutoCompleteKeyDown.bind(this));
+}
+MainApplication.prototype.onAutoCompleteKeyDown = function(event) {
+  // enter
+  if(event.keyCode == 13) {
+    this.searchConcept($("#search").val());
+    event.preventDefault();
+    return false;
+  }
 }
 
 MainApplication.prototype.onAutoCompleteFocus = function(event, ui) {
@@ -91,7 +100,12 @@ MainApplication.prototype.getConcepts = function()
 
 MainApplication.prototype.searchConcept = function(concept)
 {
-  console.log("searchConcept: " + concept);
+  if (concept.length == 0) {
+    // show all images
+    this.filteredImages = this.images;
+      return;
+  }
+
   this.filteredImages = [];
   for (i=0; i<this.images.length; i++)
   {
