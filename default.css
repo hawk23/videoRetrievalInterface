@@ -9,5 +9,29 @@ canvas#gridView
 {
   position: fixed;
   margin: 10px;
-  background-color: gray;
+  top: 50px;
+}
+
+div#videoPanel
+{
+  position: fixed;
+  right: 0px;
+  top:0px;
+  padding: 10px;
+}
+
+div#searchPnl
+{
+  position: fixed;
+  left: 0px;
+  top:0px;
+  margin: 0px;
+  padding: 10px;
+  width: 400px;
+}
+
+input#search
+{
+  padding: 6px;
+  width: 100%;
 }
