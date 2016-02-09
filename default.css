@@ -3,6 +3,8 @@ body
   background-color: black;
   margin: 0px;
   padding: 0px;
+	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
+	font-size: 82.5%;
 }
 
 canvas#gridView

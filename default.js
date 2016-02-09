@@ -1,5 +1,6 @@
 var MainApplication = function()
 {
+  this.searchPnl = document.getElementById("searchPnl");
   this.canvas = document.getElementById("gridView");
   this.context = this.canvas.getContext("2d");
 
@@ -44,6 +45,63 @@ MainApplication.prototype.loaded =  function(keyFramesString)
 {
   this.images = JSON.parse(keyFramesString);
   this.draw();
+  this.fillAutoComplete();
+}
+
+MainApplication.prototype.fillAutoComplete = function()
+{
+  var concepts = this.getConcepts();
+  $("#search").autocomplete({
+    source: concepts,
+    focus: this.onAutoCompleteFocus.bind(this),
+    select: this.onAutoCompleteSelect.bind(this)
+  });
+}
+
+MainApplication.prototype.onAutoCompleteFocus = function(event, ui) {
+  $( "#search" ).val( ui.item.label);
+  return false;
+}
+
+MainApplication.prototype.onAutoCompleteSelect = function(event, ui) {
+  $( "#search" ).val( ui.item.label);
+  this.searchConcept($("#search").val());
+  return false;
+}
+
+MainApplication.prototype.getConcepts = function()
+{
+  var concepts = [];
+
+  for (i=0; i<this.images.length; i++)
+  {
+    for (j=0; j<this.images[i].concepts.length; j++)
+    {
+      var concept = this.images[i].concepts[j];
+
+      // concept not yet known
+      if ($.inArray(concept, concepts) == -1)
+      {
+          concepts.push(concept);
+      }
+    }
+  }
+
+  return concepts;
+}
+
+MainApplication.prototype.searchConcept = function(concept)
+{
+  console.log("searchConcept: " + concept);
+  this.filteredImages = [];
+  for (i=0; i<this.images.length; i++)
+  {
+    if ($.inArray(concept, this.images.concepts) == -1)
+    {
+        this.filteredImages.push(this.images[i]);
+    }
+  }
+  console.log(this.filteredImages);
 }
 
 MainApplication.prototype.draw = function ()
