@@ -3,6 +3,7 @@ var MainApplication = function()
   this.searchPnl = document.getElementById("searchPnl");
   this.canvas = document.getElementById("gridView");
   this.context = this.canvas.getContext("2d");
+  this.video = document.getElementById("videoElement");
 
   document.body.style.height = "10000px";
 
@@ -16,6 +17,68 @@ var MainApplication = function()
   this.setDimensions();
 
   this.loadJSON(this.loaded.bind(this), './classifiedShots.json');
+  this.canvas.onmousedown = this.onMouseClick.bind(this);
+}
+
+MainApplication.prototype.onMouseClick = function(event)
+{
+  // check if item was clicked for playback
+  var hovered = this.getHovered(event);
+
+  if (hovered != -1)
+  {
+    var playbackTime = this.filteredImages[hovered].time;
+    this.startPlayback(playbackTime)
+  }
+}
+
+
+MainApplication.prototype.getHovered = function(event)
+{
+  // get element which is hovered
+  var imgWidth = 480 / 4;
+  var imgHeight = 300 / 4;
+
+  // calculate the range of images which are rendered based on the current scroll position
+  var pos = document.body.scrollTop;
+  var vpHeight = this.canvas.height;
+  var vpWidth = this.canvas.width;
+
+  var cols = Math.floor(vpWidth/imgWidth);
+  var rows = Math.floor(vpHeight/imgHeight);
+  var scrolledRows = Math.floor(pos / imgHeight);
+  var scrolledImages = scrolledRows * cols;
+  var cutOff = pos - (scrolledRows*imgHeight);
+
+  var rect = this.canvas.getBoundingClientRect();
+  var counter = 0;
+  var heightOffset = rect.top;
+  var widthOffset = rect.left;
+
+  for (var i=scrolledImages; i < this.filteredImages.length; i++)
+  {
+    var row = Math.floor(counter / cols);
+    var col = counter % cols;
+
+    if (event.clientX >= widthOffset + col*imgWidth && event.clientX <= widthOffset + col*imgWidth + imgWidth
+     && event.clientY >= heightOffset + row*imgHeight - cutOff && event.clientY <= heightOffset + row*imgHeight - cutOff + imgHeight)
+    {
+      return i;
+    }
+
+    counter++;
+    if (counter >= cols*(rows+1))
+    {
+      break;
+    }
+  }
+  return -1;
+}
+
+MainApplication.prototype.startPlayback = function(time)
+{
+	this.video.currentTime = time;
+  this.video.play();
 }
 
 MainApplication.prototype.addListener = function()
