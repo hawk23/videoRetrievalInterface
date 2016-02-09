@@ -44,6 +44,7 @@ MainApplication.prototype.onResize = function(event)
 MainApplication.prototype.loaded =  function(keyFramesString)
 {
   this.images = JSON.parse(keyFramesString);
+  this.filteredImages = this.images; // show all images at start
   this.draw();
   this.fillAutoComplete();
 }
@@ -72,7 +73,6 @@ MainApplication.prototype.onAutoCompleteSelect = function(event, ui) {
 MainApplication.prototype.getConcepts = function()
 {
   var concepts = [];
-
   for (i=0; i<this.images.length; i++)
   {
     for (j=0; j<this.images[i].concepts.length; j++)
@@ -86,7 +86,6 @@ MainApplication.prototype.getConcepts = function()
       }
     }
   }
-
   return concepts;
 }
 
@@ -96,12 +95,11 @@ MainApplication.prototype.searchConcept = function(concept)
   this.filteredImages = [];
   for (i=0; i<this.images.length; i++)
   {
-    if ($.inArray(concept, this.images.concepts) == -1)
+    if ($.inArray(concept, this.images[i].concepts) >= 0)
     {
         this.filteredImages.push(this.images[i]);
     }
   }
-  console.log(this.filteredImages);
 }
 
 MainApplication.prototype.draw = function ()
@@ -141,20 +139,20 @@ MainApplication.prototype.render = function()
   var counter = 0;
 
   this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
-  for (var i=scrolledImages; i < this.images.length; i++)
+  for (var i=scrolledImages; i < this.filteredImages.length; i++)
   {
     // only load images if not loaded previously
-    if (this.images[i].imageObj == null)
+    if (this.filteredImages[i].imageObj == null)
     {
       var imageObj = new Image();
-      imageObj.src = "keyFrames/" + this.images[i].src;
-      this.images[i].imageObj = imageObj;
+      imageObj.src = "keyFrames/" + this.filteredImages[i].src;
+      this.filteredImages[i].imageObj = imageObj;
     }
 
     var row = Math.floor(counter / cols);
     var col = counter % cols;
 
-    this.context.drawImage(this.images[i].imageObj, col*imgWidth, row*imgHeight - cutOff, imgWidth, imgHeight);
+    this.context.drawImage(this.filteredImages[i].imageObj, col*imgWidth, row*imgHeight - cutOff, imgWidth, imgHeight);
 
     counter++;
     if (counter >= cols*(rows+1))
