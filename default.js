@@ -11,22 +11,33 @@ var MainApplication = function()
   this.interval = 1000 / this.fps;
   this.delta = 0;
 
-  // set canvas size
-  this.canvas.width  = window.innerWidth - 40;
-  this.canvas.height = window.innerHeight - 20;
-
   this.addListener();
-  this.loadJSON(this.loaded.bind(this), './keyFrames.json');
+  this.setDimensions();
+
+  this.loadJSON(this.loaded.bind(this), './classifiedShots.json');
 }
 
 MainApplication.prototype.addListener = function()
 {
   window.onscroll = this.onScroll.bind(this);
+  window.onresize = this.onResize.bind(this);
+}
+
+MainApplication.prototype.setDimensions = function()
+{
+  // set canvas size
+  this.canvas.width  = window.innerWidth - 460;
+  this.canvas.height = window.innerHeight - 20;
 }
 
 MainApplication.prototype.onScroll = function(event)
 {
-  
+
+}
+
+MainApplication.prototype.onResize = function(event)
+{
+  this.setDimensions();
 }
 
 MainApplication.prototype.loaded =  function(keyFramesString)
@@ -74,13 +85,18 @@ MainApplication.prototype.render = function()
   this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
   for (var i=scrolledImages; i < this.images.length; i++)
   {
-    var imageObj = new Image();
-    imageObj.src = this.images[i].src;
+    // only load images if not loaded previously
+    if (this.images[i].imageObj == null)
+    {
+      var imageObj = new Image();
+      imageObj.src = "keyFrames/" + this.images[i].src;
+      this.images[i].imageObj = imageObj;
+    }
 
     var row = Math.floor(counter / cols);
     var col = counter % cols;
 
-    this.context.drawImage(imageObj, col*imgWidth, row*imgHeight - cutOff, imgWidth, imgHeight);
+    this.context.drawImage(this.images[i].imageObj, col*imgWidth, row*imgHeight - cutOff, imgWidth, imgHeight);
 
     counter++;
     if (counter >= cols*(rows+1))
