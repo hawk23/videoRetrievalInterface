@@ -1,11 +1,11 @@
 [{
 	"src": "img_1.jpg",
 	"time": 0,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_28.jpg",
 	"time": 1,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_55.jpg",
 	"time": 2,
@@ -101,7 +101,7 @@
 }, {
 	"src": "img_960.jpg",
 	"time": 38,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_1141.jpg",
 	"time": 45,
@@ -109,7 +109,7 @@
 }, {
 	"src": "img_1266.jpg",
 	"time": 50,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_1293.jpg",
 	"time": 51,
@@ -149,7 +149,7 @@
 }, {
 	"src": "img_1841.jpg",
 	"time": 73,
-	"concepts": ["screw"]
+	"concepts": ["corkscrew", "bottle screw"]
 }, {
 	"src": "img_1871.jpg",
 	"time": 74,
@@ -225,7 +225,7 @@
 }, {
 	"src": "img_3424.jpg",
 	"time": 136,
-	"concepts": ["curtain"]
+	"concepts": ["theater curtain", "theatre curtain"]
 }, {
 	"src": "img_3451.jpg",
 	"time": 138,
@@ -285,7 +285,7 @@
 }, {
 	"src": "img_4082.jpg",
 	"time": 163,
-	"concepts": ["auratus"]
+	"concepts": ["goldfish", "Carassius auratus"]
 }, {
 	"src": "img_4109.jpg",
 	"time": 164,
@@ -329,7 +329,7 @@
 }, {
 	"src": "img_6897.jpg",
 	"time": 275,
-	"concepts": ["ATM"]
+	"concepts": ["cash machine", "cash dispenser", "automated teller machine", "automatic teller machine", "automated teller", "automatic teller", "ATM"]
 }, {
 	"src": "img_6984.jpg",
 	"time": 279,
@@ -373,11 +373,11 @@
 }, {
 	"src": "img_8337.jpg",
 	"time": 333,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_8364.jpg",
 	"time": 334,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_8391.jpg",
 	"time": 335,
@@ -457,7 +457,7 @@
 }, {
 	"src": "img_8979.jpg",
 	"time": 359,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_9006.jpg",
 	"time": 360,
@@ -521,7 +521,7 @@
 }, {
 	"src": "img_9615.jpg",
 	"time": 384,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_9642.jpg",
 	"time": 385,
@@ -793,7 +793,7 @@
 }, {
 	"src": "img_12428.jpg",
 	"time": 497,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_12459.jpg",
 	"time": 498,
@@ -853,7 +853,7 @@
 }, {
 	"src": "img_12862.jpg",
 	"time": 514,
-	"concepts": ["car"]
+	"concepts": ["racer", "race car", "racing car"]
 }, {
 	"src": "img_12899.jpg",
 	"time": 515,
@@ -945,11 +945,11 @@
 }, {
 	"src": "img_14248.jpg",
 	"time": 569,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_14275.jpg",
 	"time": 571,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_14302.jpg",
 	"time": 572,
@@ -989,7 +989,7 @@
 }, {
 	"src": "img_14568.jpg",
 	"time": 582,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_14595.jpg",
 	"time": 583,
@@ -1005,7 +1005,7 @@
 }, {
 	"src": "img_14676.jpg",
 	"time": 587,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_14703.jpg",
 	"time": 588,
@@ -1017,7 +1017,7 @@
 }, {
 	"src": "img_14757.jpg",
 	"time": 590,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_14784.jpg",
 	"time": 591,
@@ -1109,7 +1109,7 @@
 }, {
 	"src": "img_17170.jpg",
 	"time": 686,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_17197.jpg",
 	"time": 687,
@@ -1121,7 +1121,7 @@
 }, {
 	"src": "img_17257.jpg",
 	"time": 690,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_17284.jpg",
 	"time": 691,
@@ -1217,7 +1217,7 @@
 }, {
 	"src": "img_17925.jpg",
 	"time": 717,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_17952.jpg",
 	"time": 718,
@@ -1225,7 +1225,7 @@
 }, {
 	"src": "img_17979.jpg",
 	"time": 719,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_18006.jpg",
 	"time": 720,
@@ -1245,7 +1245,7 @@
 }, {
 	"src": "img_18227.jpg",
 	"time": 729,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_18254.jpg",
 	"time": 730,
@@ -1261,7 +1261,7 @@
 }, {
 	"src": "img_18371.jpg",
 	"time": 734,
-	"concepts": ["clothes"]
+	"concepts": ["suit", "suit of clothes"]
 }, {
 	"src": "img_18427.jpg",
 	"time": 737,
@@ -1289,11 +1289,11 @@
 }, {
 	"src": "img_19172.jpg",
 	"time": 766,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_19199.jpg",
 	"time": 767,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_19226.jpg",
 	"time": 769,
@@ -1353,7 +1353,7 @@
 }, {
 	"src": "img_19643.jpg",
 	"time": 785,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_19670.jpg",
 	"time": 786,
@@ -1365,7 +1365,7 @@
 }, {
 	"src": "img_19724.jpg",
 	"time": 788,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_19751.jpg",
 	"time": 790,
@@ -1461,11 +1461,11 @@
 }, {
 	"src": "img_21075.jpg",
 	"time": 843,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_21102.jpg",
 	"time": 844,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_21129.jpg",
 	"time": 845,
@@ -1505,7 +1505,7 @@
 }, {
 	"src": "img_21715.jpg",
 	"time": 868,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_21758.jpg",
 	"time": 870,
@@ -1561,7 +1561,7 @@
 }, {
 	"src": "img_22109.jpg",
 	"time": 884,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_22136.jpg",
 	"time": 885,
@@ -1573,7 +1573,7 @@
 }, {
 	"src": "img_22192.jpg",
 	"time": 887,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_22251.jpg",
 	"time": 890,
@@ -1657,7 +1657,7 @@
 }, {
 	"src": "img_23135.jpg",
 	"time": 925,
-	"concepts": ["mask"]
+	"concepts": ["oxygen mask"]
 }, {
 	"src": "img_23162.jpg",
 	"time": 926,
@@ -1793,7 +1793,7 @@
 }, {
 	"src": "img_24791.jpg",
 	"time": 991,
-	"concepts": ["system"]
+	"concepts": ["television", "television system"]
 }, {
 	"src": "img_24818.jpg",
 	"time": 992,
@@ -1813,7 +1813,7 @@
 }, {
 	"src": "img_24995.jpg",
 	"time": 999,
-	"concepts": ["system"]
+	"concepts": ["television", "television system"]
 }, {
 	"src": "img_25022.jpg",
 	"time": 1000,
@@ -1873,7 +1873,7 @@
 }, {
 	"src": "img_25844.jpg",
 	"time": 1033,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_25871.jpg",
 	"time": 1034,
@@ -1881,11 +1881,11 @@
 }, {
 	"src": "img_25964.jpg",
 	"time": 1038,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_25991.jpg",
 	"time": 1039,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_26018.jpg",
 	"time": 1040,
@@ -1929,7 +1929,7 @@
 }, {
 	"src": "img_26288.jpg",
 	"time": 1051,
-	"concepts": ["shirt"]
+	"concepts": ["jersey", "T-shirt", "tee shirt"]
 }, {
 	"src": "img_26315.jpg",
 	"time": 1052,
@@ -1965,7 +1965,7 @@
 }, {
 	"src": "img_26538.jpg",
 	"time": 1061,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_26569.jpg",
 	"time": 1062,
@@ -2017,7 +2017,7 @@
 }, {
 	"src": "img_27195.jpg",
 	"time": 1087,
-	"concepts": ["brace"]
+	"concepts": ["neck brace"]
 }, {
 	"src": "img_27239.jpg",
 	"time": 1089,
@@ -2089,7 +2089,7 @@
 }, {
 	"src": "img_27779.jpg",
 	"time": 1111,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_27841.jpg",
 	"time": 1113,
@@ -2313,7 +2313,7 @@
 }, {
 	"src": "img_29821.jpg",
 	"time": 1192,
-	"concepts": ["bandit"]
+	"concepts": ["slot", "one-armed bandit"]
 }, {
 	"src": "img_29860.jpg",
 	"time": 1194,
@@ -2333,7 +2333,7 @@
 }, {
 	"src": "img_30245.jpg",
 	"time": 1209,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_30272.jpg",
 	"time": 1210,
@@ -2385,7 +2385,7 @@
 }, {
 	"src": "img_30608.jpg",
 	"time": 1224,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_30678.jpg",
 	"time": 1227,
@@ -2421,7 +2421,7 @@
 }, {
 	"src": "img_30951.jpg",
 	"time": 1238,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_30978.jpg",
 	"time": 1239,
@@ -2513,7 +2513,7 @@
 }, {
 	"src": "img_31864.jpg",
 	"time": 1274,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_31891.jpg",
 	"time": 1275,
@@ -2585,7 +2585,7 @@
 }, {
 	"src": "img_32421.jpg",
 	"time": 1296,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_32448.jpg",
 	"time": 1297,
@@ -2609,7 +2609,7 @@
 }, {
 	"src": "img_32583.jpg",
 	"time": 1303,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_32610.jpg",
 	"time": 1304,
@@ -2617,7 +2617,7 @@
 }, {
 	"src": "img_32637.jpg",
 	"time": 1305,
-	"concepts": ["auratus"]
+	"concepts": ["goldfish", "Carassius auratus"]
 }, {
 	"src": "img_32709.jpg",
 	"time": 1308,
@@ -2749,7 +2749,7 @@
 }, {
 	"src": "img_33922.jpg",
 	"time": 1356,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_33949.jpg",
 	"time": 1357,
@@ -2769,7 +2769,7 @@
 }, {
 	"src": "img_34058.jpg",
 	"time": 1362,
-	"concepts": ["handrail"]
+	"concepts": ["bannister", "banister", "balustrade", "balusters", "handrail"]
 }, {
 	"src": "img_34095.jpg",
 	"time": 1363,
@@ -2781,7 +2781,7 @@
 }, {
 	"src": "img_34149.jpg",
 	"time": 1365,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_34176.jpg",
 	"time": 1367,
@@ -2881,7 +2881,7 @@
 }, {
 	"src": "img_35164.jpg",
 	"time": 1406,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_35191.jpg",
 	"time": 1407,
@@ -2913,7 +2913,7 @@
 }, {
 	"src": "img_35392.jpg",
 	"time": 1415,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_35419.jpg",
 	"time": 1416,
@@ -3021,11 +3021,11 @@
 }, {
 	"src": "img_36602.jpg",
 	"time": 1464,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_36629.jpg",
 	"time": 1465,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_36656.jpg",
 	"time": 1466,
@@ -3093,19 +3093,19 @@
 }, {
 	"src": "img_37131.jpg",
 	"time": 1485,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_37158.jpg",
 	"time": 1486,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_37185.jpg",
 	"time": 1487,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_37212.jpg",
 	"time": 1488,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_37266.jpg",
 	"time": 1490,
@@ -3389,7 +3389,7 @@
 }, {
 	"src": "img_40146.jpg",
 	"time": 1605,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_40206.jpg",
 	"time": 1608,
@@ -3437,7 +3437,7 @@
 }, {
 	"src": "img_40503.jpg",
 	"time": 1620,
-	"concepts": ["hawk"]
+	"concepts": ["dragonfly", "darning needle", "devil's darning needle", "sewing needle", "snake feeder", "snake doctor", "mosquito hawk", "skeeter hawk"]
 }, {
 	"src": "img_40671.jpg",
 	"time": 1626,
@@ -3577,7 +3577,7 @@
 }, {
 	"src": "img_41956.jpg",
 	"time": 1678,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_41983.jpg",
 	"time": 1679,
@@ -3605,7 +3605,7 @@
 }, {
 	"src": "img_42145.jpg",
 	"time": 1685,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_42172.jpg",
 	"time": 1686,
@@ -3665,15 +3665,15 @@
 }, {
 	"src": "img_42975.jpg",
 	"time": 1719,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_43096.jpg",
 	"time": 1723,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_43123.jpg",
 	"time": 1724,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_43150.jpg",
 	"time": 1726,
@@ -3733,7 +3733,7 @@
 }, {
 	"src": "img_43547.jpg",
 	"time": 1741,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_43574.jpg",
 	"time": 1742,
@@ -3745,11 +3745,11 @@
 }, {
 	"src": "img_43628.jpg",
 	"time": 1745,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_43655.jpg",
 	"time": 1746,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_43682.jpg",
 	"time": 1747,
@@ -3821,11 +3821,11 @@
 }, {
 	"src": "img_44835.jpg",
 	"time": 1793,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_44862.jpg",
 	"time": 1794,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_44889.jpg",
 	"time": 1795,
@@ -3869,7 +3869,7 @@
 }, {
 	"src": "img_45186.jpg",
 	"time": 1807,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_45241.jpg",
 	"time": 1809,
@@ -4061,7 +4061,7 @@
 }, {
 	"src": "img_47048.jpg",
 	"time": 1881,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_47075.jpg",
 	"time": 1883,
@@ -4137,15 +4137,15 @@
 }, {
 	"src": "img_48141.jpg",
 	"time": 1925,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_48168.jpg",
 	"time": 1926,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_48195.jpg",
 	"time": 1927,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_48222.jpg",
 	"time": 1928,
@@ -4153,7 +4153,7 @@
 }, {
 	"src": "img_48249.jpg",
 	"time": 1929,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_48276.jpg",
 	"time": 1931,
@@ -4185,7 +4185,7 @@
 }, {
 	"src": "img_48465.jpg",
 	"time": 1938,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_48492.jpg",
 	"time": 1939,
@@ -4209,7 +4209,7 @@
 }, {
 	"src": "img_48643.jpg",
 	"time": 1945,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_48670.jpg",
 	"time": 1946,
@@ -4225,7 +4225,7 @@
 }, {
 	"src": "img_48751.jpg",
 	"time": 1950,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_48778.jpg",
 	"time": 1951,
@@ -4285,7 +4285,7 @@
 }, {
 	"src": "img_49307.jpg",
 	"time": 1972,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_49334.jpg",
 	"time": 1973,
@@ -4369,7 +4369,7 @@
 }, {
 	"src": "img_50085.jpg",
 	"time": 2003,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_50112.jpg",
 	"time": 2004,
@@ -4405,7 +4405,7 @@
 }, {
 	"src": "img_50350.jpg",
 	"time": 2014,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_50377.jpg",
 	"time": 2015,
@@ -4469,7 +4469,7 @@
 }, {
 	"src": "img_51242.jpg",
 	"time": 2049,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_51301.jpg",
 	"time": 2052,
@@ -4485,11 +4485,11 @@
 }, {
 	"src": "img_51429.jpg",
 	"time": 2057,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_51456.jpg",
 	"time": 2058,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_51483.jpg",
 	"time": 2059,
@@ -4553,11 +4553,11 @@
 }, {
 	"src": "img_51903.jpg",
 	"time": 2076,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_51930.jpg",
 	"time": 2077,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_51957.jpg",
 	"time": 2078,
@@ -4625,7 +4625,7 @@
 }, {
 	"src": "img_52603.jpg",
 	"time": 2104,
-	"concepts": ["bottle"]
+	"concepts": ["pop bottle", "soda bottle"]
 }, {
 	"src": "img_52888.jpg",
 	"time": 2115,
@@ -4649,11 +4649,11 @@
 }, {
 	"src": "img_53117.jpg",
 	"time": 2124,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_53144.jpg",
 	"time": 2125,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_53171.jpg",
 	"time": 2126,
@@ -4693,7 +4693,7 @@
 }, {
 	"src": "img_53416.jpg",
 	"time": 2136,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_53443.jpg",
 	"time": 2137,
@@ -4797,7 +4797,7 @@
 }, {
 	"src": "img_54418.jpg",
 	"time": 2176,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_54621.jpg",
 	"time": 2184,
@@ -4853,7 +4853,7 @@
 }, {
 	"src": "img_54999.jpg",
 	"time": 2199,
-	"concepts": ["drill"]
+	"concepts": ["power drill"]
 }, {
 	"src": "img_55026.jpg",
 	"time": 2201,
@@ -4865,7 +4865,7 @@
 }, {
 	"src": "img_55098.jpg",
 	"time": 2203,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_55125.jpg",
 	"time": 2205,
@@ -4877,7 +4877,7 @@
 }, {
 	"src": "img_55186.jpg",
 	"time": 2207,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_55213.jpg",
 	"time": 2208,
@@ -4893,7 +4893,7 @@
 }, {
 	"src": "img_55294.jpg",
 	"time": 2211,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_55321.jpg",
 	"time": 2212,
@@ -5145,11 +5145,11 @@
 }, {
 	"src": "img_59034.jpg",
 	"time": 2361,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_59061.jpg",
 	"time": 2362,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_59088.jpg",
 	"time": 2363,
@@ -5193,7 +5193,7 @@
 }, {
 	"src": "img_59368.jpg",
 	"time": 2374,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_59395.jpg",
 	"time": 2375,
@@ -5285,11 +5285,11 @@
 }, {
 	"src": "img_60645.jpg",
 	"time": 2425,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_60672.jpg",
 	"time": 2426,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_60699.jpg",
 	"time": 2427,
@@ -5373,7 +5373,7 @@
 }, {
 	"src": "img_61271.jpg",
 	"time": 2450,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_61301.jpg",
 	"time": 2452,
@@ -5397,7 +5397,7 @@
 }, {
 	"src": "img_61449.jpg",
 	"time": 2457,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_61508.jpg",
 	"time": 2460,
@@ -5425,7 +5425,7 @@
 }, {
 	"src": "img_61828.jpg",
 	"time": 2473,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_61855.jpg",
 	"time": 2474,
@@ -5453,15 +5453,15 @@
 }, {
 	"src": "img_62318.jpg",
 	"time": 2492,
-	"concepts": ["mask"]
+	"concepts": ["oxygen mask"]
 }, {
 	"src": "img_62345.jpg",
 	"time": 2493,
-	"concepts": ["mask"]
+	"concepts": ["oxygen mask"]
 }, {
 	"src": "img_62372.jpg",
 	"time": 2494,
-	"concepts": ["ball"]
+	"concepts": ["ping-pong ball"]
 }, {
 	"src": "img_62399.jpg",
 	"time": 2495,
@@ -5573,7 +5573,7 @@
 }, {
 	"src": "img_63742.jpg",
 	"time": 2549,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_63825.jpg",
 	"time": 2553,
@@ -5593,7 +5593,7 @@
 }, {
 	"src": "img_63970.jpg",
 	"time": 2558,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_63997.jpg",
 	"time": 2559,
@@ -5697,7 +5697,7 @@
 }, {
 	"src": "img_64797.jpg",
 	"time": 2591,
-	"concepts": ["syrinx"]
+	"concepts": ["panpipe", "pandean pipe", "syrinx"]
 }, {
 	"src": "img_64929.jpg",
 	"time": 2597,
@@ -5901,7 +5901,7 @@
 }, {
 	"src": "img_67312.jpg",
 	"time": 2692,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_67353.jpg",
 	"time": 2694,
@@ -5941,7 +5941,7 @@
 }, {
 	"src": "img_67596.jpg",
 	"time": 2703,
-	"concepts": ["drill"]
+	"concepts": ["power drill"]
 }, {
 	"src": "img_67623.jpg",
 	"time": 2704,
@@ -5989,7 +5989,7 @@
 }, {
 	"src": "img_68002.jpg",
 	"time": 2720,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_68029.jpg",
 	"time": 2721,
@@ -6001,11 +6001,11 @@
 }, {
 	"src": "img_68083.jpg",
 	"time": 2723,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_68110.jpg",
 	"time": 2724,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_68137.jpg",
 	"time": 2725,
@@ -6065,7 +6065,7 @@
 }, {
 	"src": "img_68604.jpg",
 	"time": 2744,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_68644.jpg",
 	"time": 2745,
@@ -6105,7 +6105,7 @@
 }, {
 	"src": "img_69111.jpg",
 	"time": 2764,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_69138.jpg",
 	"time": 2765,
@@ -6145,7 +6145,7 @@
 }, {
 	"src": "img_69386.jpg",
 	"time": 2775,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_69418.jpg",
 	"time": 2776,
@@ -6233,7 +6233,7 @@
 }, {
 	"src": "img_70387.jpg",
 	"time": 2815,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_70469.jpg",
 	"time": 2818,
@@ -6309,7 +6309,7 @@
 }, {
 	"src": "img_71081.jpg",
 	"time": 2843,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_71118.jpg",
 	"time": 2844,
@@ -6417,7 +6417,7 @@
 }, {
 	"src": "img_72110.jpg",
 	"time": 2884,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_72221.jpg",
 	"time": 2888,
@@ -6433,11 +6433,11 @@
 }, {
 	"src": "img_72333.jpg",
 	"time": 2893,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_72360.jpg",
 	"time": 2894,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_72387.jpg",
 	"time": 2895,
@@ -6585,7 +6585,7 @@
 }, {
 	"src": "img_73953.jpg",
 	"time": 2958,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_73980.jpg",
 	"time": 2959,
@@ -6665,11 +6665,11 @@
 }, {
 	"src": "img_74512.jpg",
 	"time": 2980,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_74539.jpg",
 	"time": 2981,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_74566.jpg",
 	"time": 2982,
@@ -6681,7 +6681,7 @@
 }, {
 	"src": "img_74620.jpg",
 	"time": 2984,
-	"concepts": ["helmet"]
+	"concepts": ["football helmet"]
 }, {
 	"src": "img_74647.jpg",
 	"time": 2985,
@@ -6753,7 +6753,7 @@
 }, {
 	"src": "img_75549.jpg",
 	"time": 3021,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_75591.jpg",
 	"time": 3023,
@@ -6769,7 +6769,7 @@
 }, {
 	"src": "img_75672.jpg",
 	"time": 3026,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_75699.jpg",
 	"time": 3027,
@@ -6917,7 +6917,7 @@
 }, {
 	"src": "img_77121.jpg",
 	"time": 3084,
-	"concepts": ["ball"]
+	"concepts": ["ping-pong ball"]
 }, {
 	"src": "img_77153.jpg",
 	"time": 3086,
@@ -6925,11 +6925,11 @@
 }, {
 	"src": "img_77210.jpg",
 	"time": 3088,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_77237.jpg",
 	"time": 3089,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_77264.jpg",
 	"time": 3090,
@@ -7117,7 +7117,7 @@
 }, {
 	"src": "img_79173.jpg",
 	"time": 3166,
-	"concepts": ["Biro"]
+	"concepts": ["ballpoint", "ballpoint pen", "ballpen", "Biro"]
 }, {
 	"src": "img_79200.jpg",
 	"time": 3168,
@@ -7325,7 +7325,7 @@
 }, {
 	"src": "img_81164.jpg",
 	"time": 3246,
-	"concepts": ["drum"]
+	"concepts": ["steel drum"]
 }, {
 	"src": "img_81200.jpg",
 	"time": 3248,
@@ -7389,7 +7389,7 @@
 }, {
 	"src": "img_81771.jpg",
 	"time": 3270,
-	"concepts": ["bandit"]
+	"concepts": ["slot", "one-armed bandit"]
 }, {
 	"src": "img_81822.jpg",
 	"time": 3272,
@@ -7405,11 +7405,11 @@
 }, {
 	"src": "img_81931.jpg",
 	"time": 3277,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_81958.jpg",
 	"time": 3278,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_81985.jpg",
 	"time": 3279,
@@ -7437,11 +7437,11 @@
 }, {
 	"src": "img_82411.jpg",
 	"time": 3296,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_82438.jpg",
 	"time": 3297,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_82465.jpg",
 	"time": 3298,
@@ -7513,11 +7513,11 @@
 }, {
 	"src": "img_83135.jpg",
 	"time": 3325,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_83162.jpg",
 	"time": 3326,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_83189.jpg",
 	"time": 3327,
@@ -7577,7 +7577,7 @@
 }, {
 	"src": "img_83829.jpg",
 	"time": 3353,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_83896.jpg",
 	"time": 3355,
@@ -7593,7 +7593,7 @@
 }, {
 	"src": "img_84136.jpg",
 	"time": 3365,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_84163.jpg",
 	"time": 3366,
@@ -7733,7 +7733,7 @@
 }, {
 	"src": "img_85462.jpg",
 	"time": 3418,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_85517.jpg",
 	"time": 3420,
@@ -7765,11 +7765,11 @@
 }, {
 	"src": "img_86068.jpg",
 	"time": 3442,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_86095.jpg",
 	"time": 3443,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_86122.jpg",
 	"time": 3444,
@@ -7785,7 +7785,7 @@
 }, {
 	"src": "img_86203.jpg",
 	"time": 3448,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_86230.jpg",
 	"time": 3449,
@@ -7829,7 +7829,7 @@
 }, {
 	"src": "img_86539.jpg",
 	"time": 3461,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_86577.jpg",
 	"time": 3463,
@@ -8037,7 +8037,7 @@
 }, {
 	"src": "img_88957.jpg",
 	"time": 3558,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_88984.jpg",
 	"time": 3559,
@@ -8053,7 +8053,7 @@
 }, {
 	"src": "img_89070.jpg",
 	"time": 3562,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_89097.jpg",
 	"time": 3563,
@@ -8061,7 +8061,7 @@
 }, {
 	"src": "img_89171.jpg",
 	"time": 3566,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_89344.jpg",
 	"time": 3573,
@@ -8085,11 +8085,11 @@
 }, {
 	"src": "img_89575.jpg",
 	"time": 3583,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_89602.jpg",
 	"time": 3584,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_89629.jpg",
 	"time": 3585,
@@ -8137,11 +8137,11 @@
 }, {
 	"src": "img_90007.jpg",
 	"time": 3600,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_90187.jpg",
 	"time": 3607,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_90214.jpg",
 	"time": 3608,
@@ -8165,11 +8165,11 @@
 }, {
 	"src": "img_90364.jpg",
 	"time": 3614,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_90391.jpg",
 	"time": 3615,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_90418.jpg",
 	"time": 3616,
@@ -8181,7 +8181,7 @@
 }, {
 	"src": "img_90472.jpg",
 	"time": 3618,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_90513.jpg",
 	"time": 3620,
@@ -8245,11 +8245,11 @@
 }, {
 	"src": "img_91220.jpg",
 	"time": 3648,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_91247.jpg",
 	"time": 3649,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_91274.jpg",
 	"time": 3650,
@@ -8333,7 +8333,7 @@
 }, {
 	"src": "img_91847.jpg",
 	"time": 3673,
-	"concepts": ["site"]
+	"concepts": ["web site", "website", "internet site", "site"]
 }, {
 	"src": "img_91874.jpg",
 	"time": 3674,
@@ -8381,7 +8381,7 @@
 }, {
 	"src": "img_92400.jpg",
 	"time": 3696,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_92427.jpg",
 	"time": 3697,
@@ -8497,11 +8497,11 @@
 }, {
 	"src": "img_96435.jpg",
 	"time": 3857,
-	"concepts": ["auratus"]
+	"concepts": ["goldfish", "Carassius auratus"]
 }, {
 	"src": "img_96462.jpg",
 	"time": 3858,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_96489.jpg",
 	"time": 3859,
@@ -8553,11 +8553,11 @@
 }, {
 	"src": "img_96882.jpg",
 	"time": 3875,
-	"concepts": ["paddle"]
+	"concepts": ["paddle", "boat paddle"]
 }, {
 	"src": "img_96930.jpg",
 	"time": 3877,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_96957.jpg",
 	"time": 3878,
@@ -8645,7 +8645,7 @@
 }, {
 	"src": "img_97629.jpg",
 	"time": 3905,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_97656.jpg",
 	"time": 3906,
@@ -8697,43 +8697,43 @@
 }, {
 	"src": "img_98476.jpg",
 	"time": 3939,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98503.jpg",
 	"time": 3940,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98530.jpg",
 	"time": 3941,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98557.jpg",
 	"time": 3942,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98584.jpg",
 	"time": 3943,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98611.jpg",
 	"time": 3944,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98640.jpg",
 	"time": 3945,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98667.jpg",
 	"time": 3946,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98694.jpg",
 	"time": 3947,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98721.jpg",
 	"time": 3948,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_98799.jpg",
 	"time": 3951,
@@ -8813,11 +8813,11 @@
 }, {
 	"src": "img_99821.jpg",
 	"time": 3992,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_99848.jpg",
 	"time": 3993,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_99875.jpg",
 	"time": 3995,
@@ -8873,7 +8873,7 @@
 }, {
 	"src": "img_100226.jpg",
 	"time": 4009,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_100302.jpg",
 	"time": 4012,
@@ -8901,7 +8901,7 @@
 }, {
 	"src": "img_101721.jpg",
 	"time": 4068,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_101777.jpg",
 	"time": 4071,
@@ -8937,7 +8937,7 @@
 }, {
 	"src": "img_102018.jpg",
 	"time": 4080,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_102045.jpg",
 	"time": 4081,
@@ -9041,7 +9041,7 @@
 }, {
 	"src": "img_103813.jpg",
 	"time": 4152,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_103840.jpg",
 	"time": 4153,
@@ -9161,7 +9161,7 @@
 }, {
 	"src": "img_104659.jpg",
 	"time": 4186,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_104811.jpg",
 	"time": 4192,
@@ -9173,7 +9173,7 @@
 }, {
 	"src": "img_104865.jpg",
 	"time": 4194,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_104892.jpg",
 	"time": 4195,
@@ -9181,15 +9181,15 @@
 }, {
 	"src": "img_104919.jpg",
 	"time": 4196,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_104946.jpg",
 	"time": 4197,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_104973.jpg",
 	"time": 4198,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_105000.jpg",
 	"time": 4200,
@@ -9213,11 +9213,11 @@
 }, {
 	"src": "img_105446.jpg",
 	"time": 4217,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_105473.jpg",
 	"time": 4218,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_105500.jpg",
 	"time": 4220,
@@ -9305,23 +9305,23 @@
 }, {
 	"src": "img_106672.jpg",
 	"time": 4266,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106699.jpg",
 	"time": 4267,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106726.jpg",
 	"time": 4269,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106753.jpg",
 	"time": 4270,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106780.jpg",
 	"time": 4271,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106807.jpg",
 	"time": 4272,
@@ -9329,15 +9329,15 @@
 }, {
 	"src": "img_106834.jpg",
 	"time": 4273,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106861.jpg",
 	"time": 4274,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_106956.jpg",
 	"time": 4278,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_107034.jpg",
 	"time": 4281,
@@ -9357,7 +9357,7 @@
 }, {
 	"src": "img_107147.jpg",
 	"time": 4285,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107174.jpg",
 	"time": 4286,
@@ -9373,7 +9373,7 @@
 }, {
 	"src": "img_107255.jpg",
 	"time": 4290,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107282.jpg",
 	"time": 4291,
@@ -9385,7 +9385,7 @@
 }, {
 	"src": "img_107336.jpg",
 	"time": 4293,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107363.jpg",
 	"time": 4294,
@@ -9397,7 +9397,7 @@
 }, {
 	"src": "img_107417.jpg",
 	"time": 4296,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107444.jpg",
 	"time": 4297,
@@ -9425,11 +9425,11 @@
 }, {
 	"src": "img_107606.jpg",
 	"time": 4304,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107633.jpg",
 	"time": 4305,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_107660.jpg",
 	"time": 4306,
@@ -9549,19 +9549,19 @@
 }, {
 	"src": "img_108610.jpg",
 	"time": 4344,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_108637.jpg",
 	"time": 4345,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_108664.jpg",
 	"time": 4346,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_108691.jpg",
 	"time": 4347,
-	"concepts": ["vest"]
+	"concepts": ["bulletproof vest"]
 }, {
 	"src": "img_108718.jpg",
 	"time": 4348,
@@ -9633,7 +9633,7 @@
 }, {
 	"src": "img_109616.jpg",
 	"time": 4384,
-	"concepts": ["uncia"]
+	"concepts": ["snow leopard", "ounce", "Panthera uncia"]
 }, {
 	"src": "img_109643.jpg",
 	"time": 4385,
@@ -9733,7 +9733,7 @@
 }, {
 	"src": "img_111074.jpg",
 	"time": 4442,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_111101.jpg",
 	"time": 4444,
@@ -9825,7 +9825,7 @@
 }, {
 	"src": "img_113944.jpg",
 	"time": 4557,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_114785.jpg",
 	"time": 4591,
@@ -9897,7 +9897,7 @@
 }, {
 	"src": "img_115422.jpg",
 	"time": 4616,
-	"concepts": ["carcharias"]
+	"concepts": ["great white shark", "white shark", "man-eater", "man-eating shark", "Carcharodon carcharias"]
 }, {
 	"src": "img_115449.jpg",
 	"time": 4617,
@@ -9933,7 +9933,7 @@
 }, {
 	"src": "img_115665.jpg",
 	"time": 4626,
-	"concepts": ["dirigible"]
+	"concepts": ["airship", "dirigible"]
 }, {
 	"src": "img_115692.jpg",
 	"time": 4627,
@@ -9953,7 +9953,7 @@
 }, {
 	"src": "img_115809.jpg",
 	"time": 4632,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_115865.jpg",
 	"time": 4634,
@@ -9981,11 +9981,11 @@
 }, {
 	"src": "img_116275.jpg",
 	"time": 4651,
-	"concepts": ["dirigible"]
+	"concepts": ["airship", "dirigible"]
 }, {
 	"src": "img_116302.jpg",
 	"time": 4652,
-	"concepts": ["dirigible"]
+	"concepts": ["airship", "dirigible"]
 }, {
 	"src": "img_116329.jpg",
 	"time": 4653,
@@ -9993,19 +9993,19 @@
 }, {
 	"src": "img_116566.jpg",
 	"time": 4662,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_116681.jpg",
 	"time": 4667,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_116708.jpg",
 	"time": 4668,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_116735.jpg",
 	"time": 4669,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_116762.jpg",
 	"time": 4670,
@@ -10017,7 +10017,7 @@
 }, {
 	"src": "img_116836.jpg",
 	"time": 4673,
-	"concepts": ["car"]
+	"concepts": ["racer", "race car", "racing car"]
 }, {
 	"src": "img_116863.jpg",
 	"time": 4674,
@@ -10025,7 +10025,7 @@
 }, {
 	"src": "img_116890.jpg",
 	"time": 4675,
-	"concepts": ["car"]
+	"concepts": ["racer", "race car", "racing car"]
 }, {
 	"src": "img_116921.jpg",
 	"time": 4676,
@@ -10041,7 +10041,7 @@
 }, {
 	"src": "img_117002.jpg",
 	"time": 4680,
-	"concepts": ["stoplight"]
+	"concepts": ["traffic light", "traffic signal", "stoplight"]
 }, {
 	"src": "img_117029.jpg",
 	"time": 4681,
@@ -10049,7 +10049,7 @@
 }, {
 	"src": "img_117056.jpg",
 	"time": 4682,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_117083.jpg",
 	"time": 4683,
@@ -10169,7 +10169,7 @@
 }, {
 	"src": "img_118276.jpg",
 	"time": 4731,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_118303.jpg",
 	"time": 4732,
@@ -10265,15 +10265,15 @@
 }, {
 	"src": "img_119253.jpg",
 	"time": 4770,
-	"concepts": ["theatre"]
+	"concepts": ["home theater", "home theatre"]
 }, {
 	"src": "img_119310.jpg",
 	"time": 4772,
-	"concepts": ["theatre"]
+	"concepts": ["home theater", "home theatre"]
 }, {
 	"src": "img_119408.jpg",
 	"time": 4776,
-	"concepts": ["shuttle"]
+	"concepts": ["space shuttle"]
 }, {
 	"src": "img_119435.jpg",
 	"time": 4777,
@@ -10281,7 +10281,7 @@
 }, {
 	"src": "img_119462.jpg",
 	"time": 4778,
-	"concepts": ["bandit"]
+	"concepts": ["slot", "one-armed bandit"]
 }, {
 	"src": "img_119581.jpg",
 	"time": 4783,
@@ -10381,7 +10381,7 @@
 }, {
 	"src": "img_120791.jpg",
 	"time": 4831,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_120818.jpg",
 	"time": 4832,
@@ -10401,7 +10401,7 @@
 }, {
 	"src": "img_121055.jpg",
 	"time": 4842,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_121082.jpg",
 	"time": 4843,
@@ -10481,7 +10481,7 @@
 }, {
 	"src": "img_121908.jpg",
 	"time": 4876,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_122233.jpg",
 	"time": 4889,
@@ -10613,7 +10613,7 @@
 }, {
 	"src": "img_123721.jpg",
 	"time": 4948,
-	"concepts": ["spray"]
+	"concepts": ["hair spray"]
 }, {
 	"src": "img_123821.jpg",
 	"time": 4952,
@@ -10657,11 +10657,11 @@
 }, {
 	"src": "img_124363.jpg",
 	"time": 4974,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_124390.jpg",
 	"time": 4975,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_124417.jpg",
 	"time": 4976,
@@ -10721,7 +10721,7 @@
 }, {
 	"src": "img_124802.jpg",
 	"time": 4992,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_124829.jpg",
 	"time": 4993,
@@ -10741,7 +10741,7 @@
 }, {
 	"src": "img_124937.jpg",
 	"time": 4997,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_124964.jpg",
 	"time": 4998,
@@ -10801,7 +10801,7 @@
 }, {
 	"src": "img_125488.jpg",
 	"time": 5019,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_125531.jpg",
 	"time": 5021,
@@ -10829,7 +10829,7 @@
 }, {
 	"src": "img_125707.jpg",
 	"time": 5028,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_125889.jpg",
 	"time": 5035,
@@ -10865,7 +10865,7 @@
 }, {
 	"src": "img_126135.jpg",
 	"time": 5045,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_126162.jpg",
 	"time": 5046,
@@ -10897,7 +10897,7 @@
 }, {
 	"src": "img_126365.jpg",
 	"time": 5054,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_126392.jpg",
 	"time": 5055,
@@ -11005,7 +11005,7 @@
 }, {
 	"src": "img_127301.jpg",
 	"time": 5092,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_127328.jpg",
 	"time": 5093,
@@ -11025,11 +11025,11 @@
 }, {
 	"src": "img_127748.jpg",
 	"time": 5109,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_127775.jpg",
 	"time": 5111,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_127802.jpg",
 	"time": 5112,
@@ -11085,7 +11085,7 @@
 }, {
 	"src": "img_128211.jpg",
 	"time": 5128,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_128238.jpg",
 	"time": 5129,
@@ -11097,7 +11097,7 @@
 }, {
 	"src": "img_128292.jpg",
 	"time": 5131,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_128319.jpg",
 	"time": 5132,
@@ -11153,19 +11153,19 @@
 }, {
 	"src": "img_128942.jpg",
 	"time": 5157,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_128981.jpg",
 	"time": 5159,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_129008.jpg",
 	"time": 5160,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_129035.jpg",
 	"time": 5161,
-	"concepts": ["ATM"]
+	"concepts": ["cash machine", "cash dispenser", "automated teller machine", "automatic teller machine", "automated teller", "automatic teller", "ATM"]
 }, {
 	"src": "img_129072.jpg",
 	"time": 5162,
@@ -11189,7 +11189,7 @@
 }, {
 	"src": "img_129467.jpg",
 	"time": 5178,
-	"concepts": ["paperknife"]
+	"concepts": ["letter opener", "paper knife", "paperknife"]
 }, {
 	"src": "img_129494.jpg",
 	"time": 5179,
@@ -11201,11 +11201,11 @@
 }, {
 	"src": "img_129548.jpg",
 	"time": 5181,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_129575.jpg",
 	"time": 5183,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_129602.jpg",
 	"time": 5184,
@@ -11233,7 +11233,7 @@
 }, {
 	"src": "img_129766.jpg",
 	"time": 5190,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_129793.jpg",
 	"time": 5191,
@@ -11257,7 +11257,7 @@
 }, {
 	"src": "img_129995.jpg",
 	"time": 5199,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_130022.jpg",
 	"time": 5200,
@@ -11313,7 +11313,7 @@
 }, {
 	"src": "img_130456.jpg",
 	"time": 5218,
-	"concepts": ["mantid"]
+	"concepts": ["mantis", "mantid"]
 }, {
 	"src": "img_130483.jpg",
 	"time": 5219,
@@ -11321,11 +11321,11 @@
 }, {
 	"src": "img_130510.jpg",
 	"time": 5220,
-	"concepts": ["site"]
+	"concepts": ["web site", "website", "internet site", "site"]
 }, {
 	"src": "img_130537.jpg",
 	"time": 5221,
-	"concepts": ["site"]
+	"concepts": ["web site", "website", "internet site", "site"]
 }, {
 	"src": "img_130564.jpg",
 	"time": 5222,
@@ -11361,7 +11361,7 @@
 }, {
 	"src": "img_131100.jpg",
 	"time": 5244,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_131127.jpg",
 	"time": 5245,
@@ -11481,7 +11481,7 @@
 }, {
 	"src": "img_132046.jpg",
 	"time": 5281,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_132073.jpg",
 	"time": 5282,
@@ -11621,7 +11621,7 @@
 }, {
 	"src": "img_133386.jpg",
 	"time": 5335,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_133413.jpg",
 	"time": 5336,
@@ -11665,7 +11665,7 @@
 }, {
 	"src": "img_133701.jpg",
 	"time": 5348,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_133728.jpg",
 	"time": 5349,
@@ -11749,11 +11749,11 @@
 }, {
 	"src": "img_134722.jpg",
 	"time": 5388,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_134749.jpg",
 	"time": 5389,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_134776.jpg",
 	"time": 5391,
@@ -11809,11 +11809,11 @@
 }, {
 	"src": "img_135169.jpg",
 	"time": 5406,
-	"concepts": ["wheel"]
+	"concepts": ["paddlewheel", "paddle wheel"]
 }, {
 	"src": "img_135196.jpg",
 	"time": 5407,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_135223.jpg",
 	"time": 5408,
@@ -11821,7 +11821,7 @@
 }, {
 	"src": "img_135250.jpg",
 	"time": 5410,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_135277.jpg",
 	"time": 5411,
@@ -11829,11 +11829,11 @@
 }, {
 	"src": "img_135304.jpg",
 	"time": 5412,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_135331.jpg",
 	"time": 5413,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_135358.jpg",
 	"time": 5414,
@@ -11913,7 +11913,7 @@
 }, {
 	"src": "img_136535.jpg",
 	"time": 5461,
-	"concepts": ["ball"]
+	"concepts": ["ping-pong ball"]
 }, {
 	"src": "img_136573.jpg",
 	"time": 5462,
@@ -11925,11 +11925,11 @@
 }, {
 	"src": "img_136667.jpg",
 	"time": 5466,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_136694.jpg",
 	"time": 5467,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_136721.jpg",
 	"time": 5468,
@@ -11969,7 +11969,7 @@
 }, {
 	"src": "img_136966.jpg",
 	"time": 5478,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_136993.jpg",
 	"time": 5479,
@@ -11981,7 +11981,7 @@
 }, {
 	"src": "img_137047.jpg",
 	"time": 5481,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_137074.jpg",
 	"time": 5482,
@@ -11989,7 +11989,7 @@
 }, {
 	"src": "img_137101.jpg",
 	"time": 5484,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_137128.jpg",
 	"time": 5485,
@@ -12013,7 +12013,7 @@
 }, {
 	"src": "img_137263.jpg",
 	"time": 5490,
-	"concepts": ["spot"]
+	"concepts": ["spotlight", "spot"]
 }, {
 	"src": "img_137290.jpg",
 	"time": 5491,
@@ -12105,7 +12105,7 @@
 }, {
 	"src": "img_138111.jpg",
 	"time": 5524,
-	"concepts": ["mirror"]
+	"concepts": ["car mirror"]
 }, {
 	"src": "img_138138.jpg",
 	"time": 5525,
@@ -12117,11 +12117,11 @@
 }, {
 	"src": "img_138192.jpg",
 	"time": 5527,
-	"concepts": ["mirror"]
+	"concepts": ["car mirror"]
 }, {
 	"src": "img_138219.jpg",
 	"time": 5528,
-	"concepts": ["milometer"]
+	"concepts": ["odometer", "hodometer", "mileometer", "milometer"]
 }, {
 	"src": "img_138246.jpg",
 	"time": 5529,
@@ -12129,7 +12129,7 @@
 }, {
 	"src": "img_138273.jpg",
 	"time": 5530,
-	"concepts": ["car"]
+	"concepts": ["sports car", "sport car"]
 }, {
 	"src": "img_138300.jpg",
 	"time": 5532,
@@ -12149,7 +12149,7 @@
 }, {
 	"src": "img_138414.jpg",
 	"time": 5536,
-	"concepts": ["mirror"]
+	"concepts": ["car mirror"]
 }, {
 	"src": "img_138454.jpg",
 	"time": 5538,
@@ -12273,7 +12273,7 @@
 }, {
 	"src": "img_139419.jpg",
 	"time": 5576,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_139446.jpg",
 	"time": 5577,
@@ -12301,11 +12301,11 @@
 }, {
 	"src": "img_140673.jpg",
 	"time": 5626,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_140700.jpg",
 	"time": 5628,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_140727.jpg",
 	"time": 5629,
@@ -12345,11 +12345,11 @@
 }, {
 	"src": "img_141005.jpg",
 	"time": 5640,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_141032.jpg",
 	"time": 5641,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_141069.jpg",
 	"time": 5642,
@@ -12369,7 +12369,7 @@
 }, {
 	"src": "img_141177.jpg",
 	"time": 5647,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_141204.jpg",
 	"time": 5648,
@@ -12457,11 +12457,11 @@
 }, {
 	"src": "img_142355.jpg",
 	"time": 5694,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_142382.jpg",
 	"time": 5695,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_142409.jpg",
 	"time": 5696,
@@ -12513,7 +12513,7 @@
 }, {
 	"src": "img_142774.jpg",
 	"time": 5710,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_142801.jpg",
 	"time": 5712,
@@ -12529,7 +12529,7 @@
 }, {
 	"src": "img_142939.jpg",
 	"time": 5717,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_142977.jpg",
 	"time": 5719,
@@ -12597,7 +12597,7 @@
 }, {
 	"src": "img_143780.jpg",
 	"time": 5751,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_143957.jpg",
 	"time": 5758,
@@ -12605,11 +12605,11 @@
 }, {
 	"src": "img_144069.jpg",
 	"time": 5762,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_144096.jpg",
 	"time": 5763,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_144123.jpg",
 	"time": 5764,
@@ -12653,7 +12653,7 @@
 }, {
 	"src": "img_144406.jpg",
 	"time": 5776,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_144481.jpg",
 	"time": 5779,
@@ -12677,7 +12677,7 @@
 }, {
 	"src": "img_144639.jpg",
 	"time": 5785,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_144666.jpg",
 	"time": 5786,
@@ -12729,7 +12729,7 @@
 }, {
 	"src": "img_145521.jpg",
 	"time": 5820,
-	"concepts": ["van"]
+	"concepts": ["moving van"]
 }, {
 	"src": "img_145554.jpg",
 	"time": 5822,
@@ -12793,7 +12793,7 @@
 }, {
 	"src": "img_146107.jpg",
 	"time": 5844,
-	"concepts": ["door"]
+	"concepts": ["sliding door"]
 }, {
 	"src": "img_146134.jpg",
 	"time": 5845,
@@ -12813,7 +12813,7 @@
 }, {
 	"src": "img_146242.jpg",
 	"time": 5849,
-	"concepts": ["nigra"]
+	"concepts": ["black stork", "Ciconia nigra"]
 }, {
 	"src": "img_146269.jpg",
 	"time": 5850,
@@ -12953,7 +12953,7 @@
 }, {
 	"src": "img_147812.jpg",
 	"time": 5912,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_147839.jpg",
 	"time": 5913,
@@ -13025,7 +13025,7 @@
 }, {
 	"src": "img_148478.jpg",
 	"time": 5939,
-	"concepts": ["ATM"]
+	"concepts": ["cash machine", "cash dispenser", "automated teller machine", "automatic teller machine", "automated teller", "automatic teller", "ATM"]
 }, {
 	"src": "img_148750.jpg",
 	"time": 5950,
@@ -13033,7 +13033,7 @@
 }, {
 	"src": "img_148809.jpg",
 	"time": 5952,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_149096.jpg",
 	"time": 5963,
@@ -13053,7 +13053,7 @@
 }, {
 	"src": "img_149206.jpg",
 	"time": 5968,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_149251.jpg",
 	"time": 5970,
@@ -13229,7 +13229,7 @@
 }, {
 	"src": "img_150919.jpg",
 	"time": 6036,
-	"concepts": ["machine"]
+	"concepts": ["vending machine"]
 }, {
 	"src": "img_150946.jpg",
 	"time": 6037,
@@ -13277,15 +13277,15 @@
 }, {
 	"src": "img_151279.jpg",
 	"time": 6051,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_151307.jpg",
 	"time": 6052,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_151334.jpg",
 	"time": 6053,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_151361.jpg",
 	"time": 6054,
@@ -13357,7 +13357,7 @@
 }, {
 	"src": "img_151916.jpg",
 	"time": 6076,
-	"concepts": ["dirigible"]
+	"concepts": ["airship", "dirigible"]
 }, {
 	"src": "img_151943.jpg",
 	"time": 6077,
@@ -13373,7 +13373,7 @@
 }, {
 	"src": "img_152133.jpg",
 	"time": 6085,
-	"concepts": ["machine"]
+	"concepts": ["vending machine"]
 }, {
 	"src": "img_152215.jpg",
 	"time": 6088,
@@ -13409,7 +13409,7 @@
 }, {
 	"src": "img_152584.jpg",
 	"time": 6103,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_152611.jpg",
 	"time": 6104,
@@ -13449,7 +13449,7 @@
 }, {
 	"src": "img_152911.jpg",
 	"time": 6116,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_152961.jpg",
 	"time": 6118,
@@ -13485,7 +13485,7 @@
 }, {
 	"src": "img_153228.jpg",
 	"time": 6129,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_153282.jpg",
 	"time": 6131,
@@ -13537,7 +13537,7 @@
 }, {
 	"src": "img_153655.jpg",
 	"time": 6146,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_153682.jpg",
 	"time": 6147,
@@ -13545,7 +13545,7 @@
 }, {
 	"src": "img_153709.jpg",
 	"time": 6148,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_153857.jpg",
 	"time": 6154,
@@ -13553,7 +13553,7 @@
 }, {
 	"src": "img_153911.jpg",
 	"time": 6156,
-	"concepts": ["machine"]
+	"concepts": ["vending machine"]
 }, {
 	"src": "img_153947.jpg",
 	"time": 6157,
@@ -13589,7 +13589,7 @@
 }, {
 	"src": "img_154293.jpg",
 	"time": 6171,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_154320.jpg",
 	"time": 6172,
@@ -13629,11 +13629,11 @@
 }, {
 	"src": "img_154613.jpg",
 	"time": 6184,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_154640.jpg",
 	"time": 6185,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_154667.jpg",
 	"time": 6186,
@@ -13645,11 +13645,11 @@
 }, {
 	"src": "img_154721.jpg",
 	"time": 6188,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_154748.jpg",
 	"time": 6189,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_154775.jpg",
 	"time": 6191,
@@ -13817,7 +13817,7 @@
 }, {
 	"src": "img_156385.jpg",
 	"time": 6255,
-	"concepts": ["piano"]
+	"concepts": ["upright", "upright piano"]
 }, {
 	"src": "img_156417.jpg",
 	"time": 6256,
@@ -13833,7 +13833,7 @@
 }, {
 	"src": "img_156517.jpg",
 	"time": 6260,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_156544.jpg",
 	"time": 6261,
@@ -13933,7 +13933,7 @@
 }, {
 	"src": "img_157723.jpg",
 	"time": 6308,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_157750.jpg",
 	"time": 6310,
@@ -13957,7 +13957,7 @@
 }, {
 	"src": "img_157925.jpg",
 	"time": 6317,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_157952.jpg",
 	"time": 6318,
@@ -14149,7 +14149,7 @@
 }, {
 	"src": "img_160429.jpg",
 	"time": 6417,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_160456.jpg",
 	"time": 6418,
@@ -14197,7 +14197,7 @@
 }, {
 	"src": "img_160796.jpg",
 	"time": 6431,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_160831.jpg",
 	"time": 6433,
@@ -14297,11 +14297,11 @@
 }, {
 	"src": "img_162812.jpg",
 	"time": 6512,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_162955.jpg",
 	"time": 6518,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_163106.jpg",
 	"time": 6524,
@@ -14313,7 +14313,7 @@
 }, {
 	"src": "img_163853.jpg",
 	"time": 6554,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_164039.jpg",
 	"time": 6561,
@@ -14361,7 +14361,7 @@
 }, {
 	"src": "img_164499.jpg",
 	"time": 6579,
-	"concepts": ["bandit"]
+	"concepts": ["slot", "one-armed bandit"]
 }, {
 	"src": "img_164611.jpg",
 	"time": 6584,
@@ -14521,11 +14521,11 @@
 }, {
 	"src": "img_166393.jpg",
 	"time": 6655,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_166424.jpg",
 	"time": 6656,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_166451.jpg",
 	"time": 6658,
@@ -14565,7 +14565,7 @@
 }, {
 	"src": "img_167058.jpg",
 	"time": 6682,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_167085.jpg",
 	"time": 6683,
@@ -14573,7 +14573,7 @@
 }, {
 	"src": "img_167112.jpg",
 	"time": 6684,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_167139.jpg",
 	"time": 6685,
@@ -14593,7 +14593,7 @@
 }, {
 	"src": "img_167273.jpg",
 	"time": 6690,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_167520.jpg",
 	"time": 6700,
@@ -14677,7 +14677,7 @@
 }, {
 	"src": "img_168093.jpg",
 	"time": 6723,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_168141.jpg",
 	"time": 6725,
@@ -14705,7 +14705,7 @@
 }, {
 	"src": "img_168303.jpg",
 	"time": 6732,
-	"concepts": ["eater"]
+	"concepts": ["bee eater"]
 }, {
 	"src": "img_168330.jpg",
 	"time": 6733,
@@ -14777,7 +14777,7 @@
 }, {
 	"src": "img_168790.jpg",
 	"time": 6751,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_168851.jpg",
 	"time": 6754,
@@ -14797,11 +14797,11 @@
 }, {
 	"src": "img_169071.jpg",
 	"time": 6762,
-	"concepts": ["machine"]
+	"concepts": ["vending machine"]
 }, {
 	"src": "img_169098.jpg",
 	"time": 6763,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_169125.jpg",
 	"time": 6765,
@@ -14813,7 +14813,7 @@
 }, {
 	"src": "img_169193.jpg",
 	"time": 6767,
-	"concepts": ["drum"]
+	"concepts": ["steel drum"]
 }, {
 	"src": "img_169220.jpg",
 	"time": 6768,
@@ -14869,7 +14869,7 @@
 }, {
 	"src": "img_169712.jpg",
 	"time": 6788,
-	"concepts": ["drill"]
+	"concepts": ["power drill"]
 }, {
 	"src": "img_169739.jpg",
 	"time": 6789,
@@ -14901,11 +14901,11 @@
 }, {
 	"src": "img_169959.jpg",
 	"time": 6798,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_169986.jpg",
 	"time": 6799,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_170013.jpg",
 	"time": 6800,
@@ -14925,15 +14925,15 @@
 }, {
 	"src": "img_170121.jpg",
 	"time": 6804,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_170148.jpg",
 	"time": 6805,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_170175.jpg",
 	"time": 6807,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_170202.jpg",
 	"time": 6808,
@@ -14953,11 +14953,11 @@
 }, {
 	"src": "img_170317.jpg",
 	"time": 6812,
-	"concepts": ["cavaticus"]
+	"concepts": ["barn spider", "Araneus cavaticus"]
 }, {
 	"src": "img_170344.jpg",
 	"time": 6813,
-	"concepts": ["cavaticus"]
+	"concepts": ["barn spider", "Araneus cavaticus"]
 }, {
 	"src": "img_170371.jpg",
 	"time": 6814,
@@ -14993,7 +14993,7 @@
 }, {
 	"src": "img_170587.jpg",
 	"time": 6823,
-	"concepts": ["drill"]
+	"concepts": ["power drill"]
 }, {
 	"src": "img_170670.jpg",
 	"time": 6826,
@@ -15001,7 +15001,7 @@
 }, {
 	"src": "img_170697.jpg",
 	"time": 6827,
-	"concepts": ["shirt"]
+	"concepts": ["jersey", "T-shirt", "tee shirt"]
 }, {
 	"src": "img_170979.jpg",
 	"time": 6839,
@@ -15013,7 +15013,7 @@
 }, {
 	"src": "img_171062.jpg",
 	"time": 6842,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_171401.jpg",
 	"time": 6856,
@@ -15033,7 +15033,7 @@
 }, {
 	"src": "img_172377.jpg",
 	"time": 6895,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_172517.jpg",
 	"time": 6900,
@@ -15045,11 +15045,11 @@
 }, {
 	"src": "img_172792.jpg",
 	"time": 6911,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_172819.jpg",
 	"time": 6912,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_172846.jpg",
 	"time": 6913,
@@ -15057,11 +15057,11 @@
 }, {
 	"src": "img_172931.jpg",
 	"time": 6917,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_172958.jpg",
 	"time": 6918,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_172985.jpg",
 	"time": 6919,
@@ -15121,7 +15121,7 @@
 }, {
 	"src": "img_173428.jpg",
 	"time": 6937,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_173455.jpg",
 	"time": 6938,
@@ -15141,7 +15141,7 @@
 }, {
 	"src": "img_173563.jpg",
 	"time": 6942,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_173590.jpg",
 	"time": 6943,
@@ -15189,7 +15189,7 @@
 }, {
 	"src": "img_173917.jpg",
 	"time": 6956,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_173944.jpg",
 	"time": 6957,
@@ -15237,7 +15237,7 @@
 }, {
 	"src": "img_174769.jpg",
 	"time": 6990,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_174796.jpg",
 	"time": 6991,
@@ -15249,7 +15249,7 @@
 }, {
 	"src": "img_174851.jpg",
 	"time": 6994,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_174878.jpg",
 	"time": 6995,
@@ -15505,11 +15505,11 @@
 }, {
 	"src": "img_177463.jpg",
 	"time": 7098,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_177521.jpg",
 	"time": 7100,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_177566.jpg",
 	"time": 7102,
@@ -15521,7 +15521,7 @@
 }, {
 	"src": "img_177629.jpg",
 	"time": 7105,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_177656.jpg",
 	"time": 7106,
@@ -15621,7 +15621,7 @@
 }, {
 	"src": "img_178764.jpg",
 	"time": 7150,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_178991.jpg",
 	"time": 7159,
@@ -15633,11 +15633,11 @@
 }, {
 	"src": "img_179187.jpg",
 	"time": 7167,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_179214.jpg",
 	"time": 7168,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_179262.jpg",
 	"time": 7170,
@@ -15669,7 +15669,7 @@
 }, {
 	"src": "img_180475.jpg",
 	"time": 7219,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_180577.jpg",
 	"time": 7223,
@@ -15717,7 +15717,7 @@
 }, {
 	"src": "img_181181.jpg",
 	"time": 7247,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_181208.jpg",
 	"time": 7248,
@@ -15761,7 +15761,7 @@
 }, {
 	"src": "img_181498.jpg",
 	"time": 7259,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_181525.jpg",
 	"time": 7261,
@@ -15777,7 +15777,7 @@
 }, {
 	"src": "img_181662.jpg",
 	"time": 7266,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_181689.jpg",
 	"time": 7267,
@@ -15789,7 +15789,7 @@
 }, {
 	"src": "img_181743.jpg",
 	"time": 7269,
-	"concepts": ["door"]
+	"concepts": ["sliding door"]
 }, {
 	"src": "img_181770.jpg",
 	"time": 7270,
@@ -15861,7 +15861,7 @@
 }, {
 	"src": "img_182899.jpg",
 	"time": 7315,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_182926.jpg",
 	"time": 7317,
@@ -15869,11 +15869,11 @@
 }, {
 	"src": "img_183012.jpg",
 	"time": 7320,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_183039.jpg",
 	"time": 7321,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_183066.jpg",
 	"time": 7322,
@@ -15929,11 +15929,11 @@
 }, {
 	"src": "img_183523.jpg",
 	"time": 7340,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_183550.jpg",
 	"time": 7342,
-	"concepts": ["shako"]
+	"concepts": ["bearskin", "busby", "shako"]
 }, {
 	"src": "img_183611.jpg",
 	"time": 7344,
@@ -15941,7 +15941,7 @@
 }, {
 	"src": "img_183653.jpg",
 	"time": 7346,
-	"concepts": ["beam"]
+	"concepts": ["balance beam", "beam"]
 }, {
 	"src": "img_183703.jpg",
 	"time": 7348,
@@ -15969,7 +15969,7 @@
 }, {
 	"src": "img_183892.jpg",
 	"time": 7355,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_183919.jpg",
 	"time": 7356,
@@ -15981,7 +15981,7 @@
 }, {
 	"src": "img_183973.jpg",
 	"time": 7358,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_184000.jpg",
 	"time": 7360,
@@ -16037,7 +16037,7 @@
 }, {
 	"src": "img_184513.jpg",
 	"time": 7380,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_184540.jpg",
 	"time": 7381,
@@ -16133,7 +16133,7 @@
 }, {
 	"src": "img_185433.jpg",
 	"time": 7417,
-	"concepts": ["machine"]
+	"concepts": ["vending machine"]
 }, {
 	"src": "img_185460.jpg",
 	"time": 7418,
@@ -16197,7 +16197,7 @@
 }, {
 	"src": "img_186141.jpg",
 	"time": 7445,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_186183.jpg",
 	"time": 7447,
@@ -16301,7 +16301,7 @@
 }, {
 	"src": "img_187466.jpg",
 	"time": 7498,
-	"concepts": ["dispenser"]
+	"concepts": ["gas pump", "gasoline pump", "petrol pump", "island dispenser"]
 }, {
 	"src": "img_187493.jpg",
 	"time": 7499,
@@ -16337,7 +16337,7 @@
 }, {
 	"src": "img_187888.jpg",
 	"time": 7515,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_187915.jpg",
 	"time": 7516,
@@ -16621,7 +16621,7 @@
 }, {
 	"src": "img_192187.jpg",
 	"time": 7687,
-	"concepts": ["popsicle"]
+	"concepts": ["ice lolly", "lolly", "lollipop", "popsicle"]
 }, {
 	"src": "img_192214.jpg",
 	"time": 7688,
@@ -16689,11 +16689,11 @@
 }, {
 	"src": "img_192906.jpg",
 	"time": 7716,
-	"concepts": ["site"]
+	"concepts": ["web site", "website", "internet site", "site"]
 }, {
 	"src": "img_192933.jpg",
 	"time": 7717,
-	"concepts": ["site"]
+	"concepts": ["web site", "website", "internet site", "site"]
 }, {
 	"src": "img_192960.jpg",
 	"time": 7718,
@@ -16769,11 +16769,11 @@
 }, {
 	"src": "img_195357.jpg",
 	"time": 7814,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_195384.jpg",
 	"time": 7815,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_195411.jpg",
 	"time": 7816,
@@ -16801,7 +16801,7 @@
 }, {
 	"src": "img_195756.jpg",
 	"time": 7830,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_195783.jpg",
 	"time": 7831,
@@ -16809,7 +16809,7 @@
 }, {
 	"src": "img_195810.jpg",
 	"time": 7832,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_195837.jpg",
 	"time": 7833,
@@ -16817,7 +16817,7 @@
 }, {
 	"src": "img_195864.jpg",
 	"time": 7834,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_195891.jpg",
 	"time": 7835,
@@ -16833,7 +16833,7 @@
 }, {
 	"src": "img_195972.jpg",
 	"time": 7838,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_195999.jpg",
 	"time": 7839,
@@ -16841,7 +16841,7 @@
 }, {
 	"src": "img_196026.jpg",
 	"time": 7841,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_196053.jpg",
 	"time": 7842,
@@ -16857,15 +16857,15 @@
 }, {
 	"src": "img_196340.jpg",
 	"time": 7853,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_196367.jpg",
 	"time": 7854,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_196394.jpg",
 	"time": 7855,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_196454.jpg",
 	"time": 7858,
@@ -16905,7 +16905,7 @@
 }, {
 	"src": "img_198199.jpg",
 	"time": 7927,
-	"concepts": ["bob"]
+	"concepts": ["bobsled", "bobsleigh", "bob"]
 }, {
 	"src": "img_198226.jpg",
 	"time": 7929,
@@ -16945,7 +16945,7 @@
 }, {
 	"src": "img_198486.jpg",
 	"time": 7939,
-	"concepts": ["dirigible"]
+	"concepts": ["airship", "dirigible"]
 }, {
 	"src": "img_198513.jpg",
 	"time": 7940,
@@ -16953,7 +16953,7 @@
 }, {
 	"src": "img_198540.jpg",
 	"time": 7941,
-	"concepts": ["bars"]
+	"concepts": ["parallel bars", "bars"]
 }, {
 	"src": "img_198574.jpg",
 	"time": 7942,
@@ -16985,7 +16985,7 @@
 }, {
 	"src": "img_198763.jpg",
 	"time": 7950,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_198790.jpg",
 	"time": 7951,
@@ -17009,11 +17009,11 @@
 }, {
 	"src": "img_199265.jpg",
 	"time": 7970,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_199292.jpg",
 	"time": 7971,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_199319.jpg",
 	"time": 7972,
@@ -17073,7 +17073,7 @@
 }, {
 	"src": "img_199702.jpg",
 	"time": 7988,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_199729.jpg",
 	"time": 7989,
@@ -17145,11 +17145,11 @@
 }, {
 	"src": "img_200229.jpg",
 	"time": 8009,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_200256.jpg",
 	"time": 8010,
-	"concepts": ["bullet"]
+	"concepts": ["bullet train", "bullet"]
 }, {
 	"src": "img_200283.jpg",
 	"time": 8011,
@@ -17289,7 +17289,7 @@
 }, {
 	"src": "img_201513.jpg",
 	"time": 8060,
-	"concepts": ["cap"]
+	"concepts": ["bathing cap", "swimming cap"]
 }, {
 	"src": "img_201540.jpg",
 	"time": 8061,
@@ -17297,19 +17297,19 @@
 }, {
 	"src": "img_201763.jpg",
 	"time": 8070,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_201790.jpg",
 	"time": 8071,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_201817.jpg",
 	"time": 8072,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_201868.jpg",
 	"time": 8074,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_201895.jpg",
 	"time": 8075,
@@ -17317,11 +17317,11 @@
 }, {
 	"src": "img_201929.jpg",
 	"time": 8077,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_201956.jpg",
 	"time": 8078,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_202527.jpg",
 	"time": 8101,
@@ -17333,7 +17333,7 @@
 }, {
 	"src": "img_202581.jpg",
 	"time": 8103,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_202608.jpg",
 	"time": 8104,
@@ -17345,7 +17345,7 @@
 }, {
 	"src": "img_202662.jpg",
 	"time": 8106,
-	"concepts": ["uniform"]
+	"concepts": ["military uniform"]
 }, {
 	"src": "img_202689.jpg",
 	"time": 8107,
@@ -17709,7 +17709,7 @@
 }, {
 	"src": "img_211080.jpg",
 	"time": 8443,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_211281.jpg",
 	"time": 8451,
@@ -17717,7 +17717,7 @@
 }, {
 	"src": "img_211378.jpg",
 	"time": 8455,
-	"concepts": ["bar"]
+	"concepts": ["horizontal bar", "high bar"]
 }, {
 	"src": "img_211533.jpg",
 	"time": 8461,
@@ -17733,7 +17733,7 @@
 }, {
 	"src": "img_211754.jpg",
 	"time": 8470,
-	"concepts": ["robe"]
+	"concepts": ["academic gown", "academic robe", "judge's robe"]
 }, {
 	"src": "img_211781.jpg",
 	"time": 8471,
@@ -17809,7 +17809,7 @@
 }, {
 	"src": "img_215664.jpg",
 	"time": 8626,
-	"concepts": ["drill"]
+	"concepts": ["power drill"]
 }, {
 	"src": "img_215691.jpg",
 	"time": 8627,
@@ -17877,11 +17877,11 @@
 }, {
 	"src": "img_216129.jpg",
 	"time": 8645,
-	"concepts": ["bottle"]
+	"concepts": ["pop bottle", "soda bottle"]
 }, {
 	"src": "img_216156.jpg",
 	"time": 8646,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_216183.jpg",
 	"time": 8647,
@@ -18025,7 +18025,7 @@
 }, {
 	"src": "img_217616.jpg",
 	"time": 8704,
-	"concepts": ["house"]
+	"concepts": ["prison", "prison house"]
 }, {
 	"src": "img_217643.jpg",
 	"time": 8705,
@@ -18257,11 +18257,11 @@
 }, {
 	"src": "img_220042.jpg",
 	"time": 8801,
-	"concepts": ["shark"]
+	"concepts": ["hammerhead", "hammerhead shark"]
 }, {
 	"src": "img_220069.jpg",
 	"time": 8802,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_220118.jpg",
 	"time": 8804,
@@ -18309,7 +18309,7 @@
 }, {
 	"src": "img_220644.jpg",
 	"time": 8825,
-	"concepts": ["tobacconist"]
+	"concepts": ["tobacco shop", "tobacconist shop", "tobacconist"]
 }, {
 	"src": "img_220723.jpg",
 	"time": 8828,
@@ -18429,11 +18429,11 @@
 }, {
 	"src": "img_222403.jpg",
 	"time": 8896,
-	"concepts": ["tie"]
+	"concepts": ["Windsor tie"]
 }, {
 	"src": "img_222430.jpg",
 	"time": 8897,
-	"concepts": ["tie"]
+	"concepts": ["Windsor tie"]
 }, {
 	"src": "img_222457.jpg",
 	"time": 8898,
@@ -18445,7 +18445,7 @@
 }, {
 	"src": "img_222514.jpg",
 	"time": 8900,
-	"concepts": ["web"]
+	"concepts": ["spider web", "spider's web"]
 }, {
 	"src": "img_222541.jpg",
 	"time": 8901,
@@ -18461,7 +18461,7 @@
 }, {
 	"src": "img_222634.jpg",
 	"time": 8905,
-	"concepts": ["blocker"]
+	"concepts": ["sunscreen", "sunblock", "sun blocker"]
 }, {
 	"src": "img_222672.jpg",
 	"time": 8906,
@@ -18481,11 +18481,11 @@
 }, {
 	"src": "img_222909.jpg",
 	"time": 8916,
-	"concepts": ["terrace"]
+	"concepts": ["patio", "terrace"]
 }, {
 	"src": "img_222936.jpg",
 	"time": 8917,
-	"concepts": ["terrace"]
+	"concepts": ["patio", "terrace"]
 }, {
 	"src": "img_222963.jpg",
 	"time": 8918,
@@ -18509,19 +18509,19 @@
 }, {
 	"src": "img_223263.jpg",
 	"time": 8930,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_223290.jpg",
 	"time": 8931,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_223317.jpg",
 	"time": 8932,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_223344.jpg",
 	"time": 8933,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_223371.jpg",
 	"time": 8934,
@@ -18569,7 +18569,7 @@
 }, {
 	"src": "img_223917.jpg",
 	"time": 8956,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_223944.jpg",
 	"time": 8957,
@@ -18689,7 +18689,7 @@
 }, {
 	"src": "img_225551.jpg",
 	"time": 9022,
-	"concepts": ["coat"]
+	"concepts": ["lab coat", "laboratory coat"]
 }, {
 	"src": "img_225578.jpg",
 	"time": 9023,
@@ -18765,11 +18765,11 @@
 }, {
 	"src": "img_226203.jpg",
 	"time": 9048,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_226230.jpg",
 	"time": 9049,
-	"concepts": ["roundworm"]
+	"concepts": ["nematode", "nematode worm", "roundworm"]
 }, {
 	"src": "img_226264.jpg",
 	"time": 9050,
@@ -18809,7 +18809,7 @@
 }, {
 	"src": "img_226671.jpg",
 	"time": 9066,
-	"concepts": ["cabinet"]
+	"concepts": ["medicine chest", "medicine cabinet"]
 }, {
 	"src": "img_226715.jpg",
 	"time": 9068,
@@ -18821,11 +18821,11 @@
 }, {
 	"src": "img_226838.jpg",
 	"time": 9073,
-	"concepts": ["cover"]
+	"concepts": ["lens cap", "lens cover"]
 }, {
 	"src": "img_226865.jpg",
 	"time": 9074,
-	"concepts": ["cover"]
+	"concepts": ["lens cap", "lens cover"]
 }, {
 	"src": "img_226892.jpg",
 	"time": 9075,
@@ -18905,7 +18905,7 @@
 }, {
 	"src": "img_227446.jpg",
 	"time": 9097,
-	"concepts": ["mug"]
+	"concepts": ["coffee mug"]
 }, {
 	"src": "img_227473.jpg",
 	"time": 9098,
@@ -18957,11 +18957,11 @@
 }, {
 	"src": "img_227997.jpg",
 	"time": 9119,
-	"concepts": ["chopper"]
+	"concepts": ["cleaver", "meat cleaver", "chopper"]
 }, {
 	"src": "img_228024.jpg",
 	"time": 9120,
-	"concepts": ["clock"]
+	"concepts": ["digital clock"]
 }, {
 	"src": "img_228051.jpg",
 	"time": 9122,
@@ -19065,7 +19065,7 @@
 }, {
 	"src": "img_228852.jpg",
 	"time": 9154,
-	"concepts": ["dishcloth"]
+	"concepts": ["dishrag", "dishcloth"]
 }, {
 	"src": "img_228879.jpg",
 	"time": 9155,
@@ -19133,19 +19133,19 @@
 }, {
 	"src": "img_229479.jpg",
 	"time": 9179,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_229506.jpg",
 	"time": 9180,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_229533.jpg",
 	"time": 9181,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_229560.jpg",
 	"time": 9182,
-	"concepts": ["sign"]
+	"concepts": ["street sign"]
 }, {
 	"src": "img_229587.jpg",
 	"time": 9183,
@@ -19185,7 +19185,7 @@
 }, {
 	"src": "img_229964.jpg",
 	"time": 9198,
-	"concepts": ["punchball"]
+	"concepts": ["punching bag", "punch bag", "punching ball", "punchball"]
 }, {
 	"src": "img_229996.jpg",
 	"time": 9199,
@@ -19285,7 +19285,7 @@
 }, {
 	"src": "img_231895.jpg",
 	"time": 9275,
-	"concepts": ["system"]
+	"concepts": ["television", "television system"]
 }, {
 	"src": "img_232062.jpg",
 	"time": 9282,
@@ -19349,7 +19349,7 @@
 }, {
 	"src": "img_233144.jpg",
 	"time": 9325,
-	"concepts": ["whirligig"]
+	"concepts": ["carousel", "carrousel", "merry-go-round", "roundabout", "whirligig"]
 }, {
 	"src": "img_233171.jpg",
 	"time": 9326,
@@ -19409,7 +19409,7 @@
 }, {
 	"src": "img_234194.jpg",
 	"time": 9367,
-	"concepts": ["clothes"]
+	"concepts": ["suit", "suit of clothes"]
 }, {
 	"src": "img_234278.jpg",
 	"time": 9371,
@@ -19417,7 +19417,7 @@
 }, {
 	"src": "img_234730.jpg",
 	"time": 9389,
-	"concepts": ["tie"]
+	"concepts": ["Windsor tie"]
 }, {
 	"src": "img_234852.jpg",
 	"time": 9394,
