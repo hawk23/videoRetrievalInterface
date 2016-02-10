@@ -4,6 +4,8 @@ var MainApplication = function()
   this.canvas = document.getElementById("gridView");
   this.context = this.canvas.getContext("2d");
   this.video = document.getElementById("videoElement");
+  this.txtFilterName = document.getElementById("filterName");
+  this.txtNumResults = document.getElementById("numSearchResults");
 
   this.imgWidth = 128;
   this.imgHeight = 72;
@@ -18,9 +20,7 @@ var MainApplication = function()
 
   this.addListener();
   this.setDimensions();
-
-  this.loadJSON(this.loaded.bind(this), './classifiedShots.json');
-  this.canvas.onmousedown = this.onMouseClick.bind(this);
+  this.loadContentFromFiles();
 }
 
 MainApplication.prototype.onMouseClick = function(event)
@@ -82,6 +82,7 @@ MainApplication.prototype.startPlayback = function(time)
 
 MainApplication.prototype.addListener = function()
 {
+  this.canvas.onmousedown = this.onMouseClick.bind(this);
   window.onscroll = this.onScroll.bind(this);
   window.onresize = this.onResize.bind(this);
 }
@@ -105,23 +106,55 @@ MainApplication.prototype.onResize = function(event)
 
 MainApplication.prototype.loaded =  function(keyFramesString)
 {
-  this.images = JSON.parse(keyFramesString);
-  this.filteredImages = this.images; // show all images at start
-  this.draw();
-  this.fillAutoComplete();
+  this.filesLoaded++;
+
+  var loadedImages = JSON.parse(keyFramesString);
+  if (this.images == null || this.images.length == 0)
+  {
+    this.images = loadedImages;
+  }
+  else
+  {
+    // merge. both files contain same images in same order.
+    for (var i=0; i < this.images.length; i++)
+    {
+      this.images[i].concepts = this.images[i].concepts.concat(loadedImages[i].concepts);
+    }
+  }
+
+  if (this.filesLoaded == this.files2load)
+  {
+    // show all images at start
+    this.filteredImages = this.images;
+
+    this.draw();
+    this.fillAutoComplete();
+    this.displayInfo();
+  }
+}
+
+MainApplication.prototype.displayInfo = function()
+{
+  var filter = $("#search").val();
+
+  this.txtFilterName.innerHTML = filter.length > 0 ? filter : "none";
+  this.txtNumResults.innerHTML = this.filteredImages.length;
 }
 
 MainApplication.prototype.fillAutoComplete = function()
 {
   var concepts = this.getConcepts();
   $("#search").autocomplete({
+    minLength: 0,
     source: concepts,
     focus: this.onAutoCompleteFocus.bind(this),
     select: this.onAutoCompleteSelect.bind(this)
   });
   $("#search").keydown(this.onAutoCompleteKeyDown.bind(this));
 }
-MainApplication.prototype.onAutoCompleteKeyDown = function(event) {
+
+MainApplication.prototype.onAutoCompleteKeyDown = function(event)
+{
   // enter
   if(event.keyCode == 13) {
     this.searchConcept($("#search").val());
@@ -165,8 +198,12 @@ MainApplication.prototype.searchConcept = function(concept)
   if (concept.length == 0) {
     // show all images
     this.filteredImages = this.images;
-      return;
+    this.displayInfo();
+    return;
   }
+
+  // scroll to top
+  window.scrollTo(0,0);
 
   this.filteredImages = [];
   for (i=0; i<this.images.length; i++)
@@ -176,6 +213,8 @@ MainApplication.prototype.searchConcept = function(concept)
         this.filteredImages.push(this.images[i]);
     }
   }
+
+  this.displayInfo();
 }
 
 MainApplication.prototype.draw = function ()
@@ -234,6 +273,15 @@ MainApplication.prototype.render = function()
       break;
     }
   }
+}
+
+MainApplication.prototype.loadContentFromFiles = function()
+{
+  this.filesLoaded = 0;
+  this.files2load = 2;
+
+  this.loadJSON(this.loaded.bind(this), './classifiedShots1.json');
+  this.loadJSON(this.loaded.bind(this), './classifiedShots2.json');
 }
 
 MainApplication.prototype.loadJSON = function(callback, file)

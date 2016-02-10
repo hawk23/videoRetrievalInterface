@@ -1,10 +1,11 @@
 body
 {
+  color: white;
   background-color: black;
   margin: 0px;
   padding: 0px;
 	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
-	font-size: 82.5%;
+	font-size: 120%;
 }
 
 canvas#gridView
@@ -29,11 +30,41 @@ div#searchPnl
   top:0px;
   margin: 0px;
   padding: 10px;
-  width: 400px;
+  width: 600px;
 }
 
 input#search
 {
   padding: 6px;
   width: 100%;
+  font-size: 1em;
+}
+
+div#infoPanel
+{
+  position: fixed;
+  right: 0px;
+  padding: 10px;
+  top: 330px;
+  width: 450px;
+}
+
+div#infoPanel ul,
+div#infoPanel li
+{
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+
+div#infoPanel li
+{
+  font-size: 1em;
+  list-style: none;
+}
+
+.ui-front
+{
+  overflow: scroll;
+  max-height: 400px;
 }
